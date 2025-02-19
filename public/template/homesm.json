@@ -482,7 +482,7 @@
           "trustIconColor": "#ffffff",
           "trustItemSize": "15",
           "trustItemColor": "bold",
-          "scrollButtonBg": "#8684f1",
+          "scrollButtonBg": "#1512f3",
           "scrollButtonColor": "#fffafa",
           "categoryColor": "#000000",
           "linkColor": "#0077b6",
@@ -508,9 +508,13 @@
         "marginBottom": "20",
         "paddinRight": "0",
         "paddinLeft": "0",
-        "backgroundColor": "#e30d0d"
+        "backgroundColor": "#f7f7f7"
       }
     }
   },
-  "order": ["section-header", "children", "section-footer"]
+  "order": [
+    "section-header",
+    "children",
+    "section-footer"
+  ]
 }
